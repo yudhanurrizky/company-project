@@ -2,6 +2,7 @@ body {
     font-family: 'Orbitron', sans-serif;
 }
 
+
 /* HEADER */
 
 header {
@@ -27,6 +28,8 @@ header h1 {
     padding: 0.5% ;
 }
 
+
+
 /* MAIN-VISION */
 
 .vision {
@@ -44,6 +47,7 @@ header h1 {
     text-shadow: 2px 2px black;
 }
 
+
 /* MAIN-MISSIONS */
 
 .missions {
@@ -52,7 +56,7 @@ header h1 {
     text-align: center;
 }
 
-.mission-header h2 {
+.missions .header h2 {
     margin-top: 2em;
 }
 
@@ -70,4 +74,18 @@ header h1 {
 .missions .card img {
     max-width: 50%;
     height: auto;
+}
+
+
+/* MAIN-LEADERSHIP */
+
+.leadership {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.leadership .card img {
+    max-width: 20%;
+    height: auto; 
 }
