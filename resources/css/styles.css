@@ -45,7 +45,7 @@ header h1 {
     background-position: center;
     background-repeat: no-repeat;
     padding: 5%; 
-    margin-top: 5em;
+    margin-top: 3em;
 }
 
 .vision p, h1 {
@@ -62,7 +62,7 @@ header h1 {
 }
 
 .missions .header h2 {
-    margin-top: 5em;
+    margin-top: 3em;
 }
 
 .missions .container {
@@ -91,7 +91,7 @@ header h1 {
 
 .leadership .header {
     text-align: center;
-    margin-top: 5em;
+    margin-top: 3em;
 }
 
 .leadership .container {
