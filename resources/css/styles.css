@@ -45,6 +45,7 @@ header h1 {
     background-position: center;
     background-repeat: no-repeat;
     padding: 5%; 
+    margin-top: 5em;
 }
 
 .vision p, h1 {
@@ -61,7 +62,7 @@ header h1 {
 }
 
 .missions .header h2 {
-    margin-top: 2em;
+    margin-top: 5em;
 }
 
 .missions .container {
@@ -88,8 +89,17 @@ header h1 {
     flex-direction: column;
 }
 
+.leadership .header {
+    text-align: center;
+    margin-top: 5em;
+}
+
+.leadership .container {
+    display: flex;
+    justify-content: space-around;
+}
 
 .leadership .card img {
-    max-width: 20%;
-    height: auto; 
+    width: auto;
+    max-height: 30em; 
 }
