@@ -103,3 +103,16 @@ header h1 {
     width: auto;
     max-height: 30em; 
 }
+
+
+/* FOOTER */
+
+footer {
+    text-align: center;
+    margin-top: 3em;
+    background-color: black;
+}
+
+footer h2, p {
+    color: white;
+}
