@@ -28,6 +28,10 @@ header h1 {
     padding: 0.5% ;
 }
 
+.button:hover {
+    color: black;
+    background-color: white;
+}
 
 
 /* MAIN-VISION */
