@@ -77,8 +77,8 @@ header h1 {
 }
 
 .missions .card img {
-    width: 350px;
-    height: 350px;
+    width: 50%;
+    height: auto;
 }
 
 
