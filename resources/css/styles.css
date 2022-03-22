@@ -68,7 +68,7 @@ header h1 {
 .missions .container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 .missions .card {
@@ -77,8 +77,8 @@ header h1 {
 }
 
 .missions .card img {
-    max-width: 50%;
-    height: auto;
+    width: 350px;
+    height: 350px;
 }
 
 
